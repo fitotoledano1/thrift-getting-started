@@ -127,8 +127,8 @@ sudo apt-get update && sudo apt-get install swift
 
 ```bash
 # Clone the repository (replace with actual URL)
-git clone https://github.com/yourusername/thrift-calculator-tutorial.git
-cd thrift-calculator-tutorial
+git clone https://github.com/fitotoledano1/thrift-getting-started
+cd thrift-getting-started
 
 # Make build script executable
 chmod +x build.sh clean.sh
