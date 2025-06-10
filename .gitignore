@@ -1,0 +1,38 @@
+# Thrift Generated Code
+gen-java/
+gen-swift/
+
+# Java Maven
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# Maven
+.mvn/
+mvnw
+mvnw.cmd
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+*.xcworkspace
+*.xcodeproj
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo 
